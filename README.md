@@ -1,4 +1,7 @@
-[Demo site](http://humboldtux.github.io/sbcb-demo/) for [Start Bootstrap Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) ported to a Hugo theme.
+# Warning
+
+**I'm not using this theme anymore.**
+**New maintainer wanted**
 
 # Instructions
 
